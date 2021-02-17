@@ -24,6 +24,4 @@ py /path/to/script/tracker.py
 
 ## License
 
-MIT
-
 **Free Software, Hell Yeah!**
