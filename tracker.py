@@ -5,7 +5,7 @@
 #        16/2/2021             #
 ################################
 
-# prerequirements
+# pre requirements
     # 1- pip install colorama
     # 2- pip install pyfiglet
 import sys
@@ -59,12 +59,7 @@ try:
 except e:
     # when connection or any error happen display it
     cprint("Fetcing data faild \n error :{} \n please try again later".format(e),"red")
-    ask_for_exit = input("Do you want exit program ? (y/n)")
-    # ask user if he want to exit
-    if ask_for_exit.lower == "y" or ask_for_exit.lower == "yes":
-        exit()
-    else:
-        ask_for_host()
+    exit()
 
 #api for open google maps
 api_maps = "https://www.google.com/maps/search/?api=1&query={},{}"
