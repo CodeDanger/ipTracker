@@ -10,6 +10,7 @@ ipTracker is a python script to track ip or host and display it's location on go
 let's install this script lib and start use it
 to install lib follow this commands
 >1-```pip install colorama```
+>
 >2-```pip install pyfiglet```
 
 now you are able to use it 
