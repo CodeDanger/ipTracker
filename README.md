@@ -2,7 +2,7 @@
 ## Track your Ip/Host by this tool
 ipTracker is a python script to track ip or host and display it's location on google maps on browser
 ## Pre requirements
-- Python(3.9.1)
+- Python 3
 - pip
 
 ## Installition and Usage
