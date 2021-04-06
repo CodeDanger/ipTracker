@@ -6,9 +6,8 @@
 ################################
 
 # pre requirements
-    # 1- pip install colorama
-    # 2- pip install pyfiglet
-    # 3- pip install termcolor
+    # 1- py -m pip install pyfiglet
+    # 2- py -m pip install termcolor
 import socket
 from termcolor import cprint
 from pyfiglet import figlet_format
