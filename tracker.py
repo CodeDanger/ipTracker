@@ -10,7 +10,6 @@
     # 2- pip install pyfiglet
     # 3- pip install termcolor
 import socket
-from colorama import init
 from termcolor import cprint
 from pyfiglet import figlet_format
 from urllib.request import Request, urlopen
