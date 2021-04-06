@@ -8,6 +8,7 @@
 # pre requirements
     # 1- pip install colorama
     # 2- pip install pyfiglet
+    # 3- pip install termcolor
 import socket
 from colorama import init
 from termcolor import cprint
