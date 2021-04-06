@@ -8,7 +8,6 @@
 # pre requirements
     # 1- pip install colorama
     # 2- pip install pyfiglet
-import sys
 import socket
 from colorama import init
 from termcolor import cprint
@@ -18,7 +17,6 @@ import webbrowser
 import json
 from pprint import pprint
 
-init(strip=not sys.stdout.isatty())
 
 author="Code Danger"
 cprint(figlet_format(author, font="standard"), "red") 
