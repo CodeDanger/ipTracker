@@ -25,4 +25,4 @@ py /path/to/script/tracker.py
 
 ## License
 
-**Free Software, Hell Yeah!**
+**Free Software**
